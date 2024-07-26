@@ -50,12 +50,11 @@ The project calculates summary statistics for each cluster, including:
 - Number of customers in each cluster
 
 ## Results
-The Mall_Customers_Clustered.csv file contains the customer data with the added cluster information. Each row includes:
-
-#CustomerID: Unique identifier for each customer.
-#Gender: Gender of the customer.
-#Age: Age of the customer.
-#Annual Income (k$): Annual income of the customer in thousands of dollars.
-#Spending Score (1-100): Spending score assigned to the customer.
-#Cluster: The cluster assignment for each customer, indicating which group they belong to based on the K-means clustering.
+The `Mall_Customers_Clustered.csv` file contains the customer data with the added cluster information. Each row includes:
+- **CustomerID**: Unique identifier for each customer.
+- **Gender**: Gender of the customer.
+- **Age**: Age of the customer.
+- **Annual Income (k$)**: Annual income of the customer in thousands of dollars.
+- **Spending Score (1-100)**: Spending score assigned to the customer.
+- **Cluster**: The cluster assignment for each customer, indicating which group they belong to based on the K-means clustering.
 
